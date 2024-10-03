@@ -1,1 +1,1 @@
-First Question - Pascal's triangle
+First question in software engineering interviewsquestions
